@@ -1,0 +1,40 @@
+track_name,artists,danceability,energy,acousticness,valence,tempo
+Blinding Lights,The Weeknd,0.82,0.95,0.02,0.78,171
+Levitating,Dua Lipa,0.9,0.85,0.05,0.88,103
+Someone Like You,Adele,0.3,0.25,0.85,0.25,68
+Shape of You,Ed Sheeran,0.83,0.8,0.58,0.93,96
+Believer,Imagine Dragons,0.65,0.92,0.04,0.67,125
+Perfect,Ed Sheeran,0.42,0.35,0.72,0.45,63
+Uptown Funk,Mark Ronson ft. Bruno Mars,0.95,0.93,0.01,0.96,115
+Stay,The Kid LAROI & Justin Bieber,0.72,0.78,0.04,0.55,170
+Lovely,Billie Eilish & Khalid,0.35,0.22,0.9,0.18,115
+Dance Monkey,Tones and I,0.86,0.82,0.12,0.74,98
+Counting Stars,OneRepublic,0.66,0.86,0.1,0.76,122
+Photograph,Ed Sheeran,0.38,0.3,0.8,0.4,108
+Can't Stop the Feeling!,Justin Timberlake,0.92,0.88,0.03,0.97,113
+bad guy,Billie Eilish,0.7,0.72,0.2,0.56,135
+Fix You,Coldplay,0.28,0.4,0.62,0.3,138
+Shake It Off,Taylor Swift,0.91,0.9,0.03,0.91,160
+Heat Waves,Glass Animals,0.76,0.67,0.18,0.64,81
+Yellow,Coldplay,0.4,0.45,0.4,0.47,87
+Thunder,Imagine Dragons,0.7,0.89,0.02,0.61,168
+Senorita,Shawn Mendes & Camila Cabello,0.78,0.7,0.12,0.8,117
+Happier,Marshmello ft. Bastille,0.73,0.74,0.06,0.62,100
+All of Me,John Legend,0.33,0.28,0.78,0.36,120
+On Top of the World,Imagine Dragons,0.84,0.87,0.06,0.94,100
+The Nights,Avicii,0.79,0.91,0.02,0.89,126
+Riptide,Vance Joy,0.72,0.62,0.25,0.83,102
+Lovely Day,Bill Withers,0.8,0.68,0.18,0.92,98
+Stay With Me,Sam Smith,0.37,0.32,0.77,0.33,84
+Take On Me,a-ha,0.84,0.88,0.03,0.86,169
+Memories,Maroon 5,0.68,0.52,0.18,0.53,91
+Watermelon Sugar,Harry Styles,0.82,0.8,0.1,0.89,95
+Bad Habits,Ed Sheeran,0.81,0.89,0.05,0.68,126
+Someone You Loved,Lewis Capaldi,0.5,0.4,0.75,0.27,110
+As It Was,Harry Styles,0.73,0.8,0.34,0.65,174
+Flowers,Miley Cyrus,0.71,0.68,0.06,0.82,118
+Viva La Vida,Coldplay,0.49,0.81,0.12,0.49,138
+Radioactive,Imagine Dragons,0.45,0.85,0.03,0.24,137
+A Thousand Years,Christina Perri,0.42,0.29,0.82,0.28,139
+Pompeii,Bastille,0.68,0.83,0.08,0.71,127
+Rather Be,Clean Bandit ft. Jess Glynne,0.79,0.84,0.07,0.88,121
